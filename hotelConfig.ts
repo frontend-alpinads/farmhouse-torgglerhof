@@ -1,7 +1,7 @@
 export const hotelConfig = {
-  hotelName: "{{HOTEL_NAME}}",
-  email: "{{EMAIL}}",
-  address: "{{ADDRESS}}",
-  phoneNumber: "{{PHONE_NUMBER}}",
-  websiteUrl: "{{WEBSITE_URL}}",
+  hotelName: "Farmhouse Torgglerhof",
+  email: "info@farmhouse-torgglerhof.com",
+  address: "",
+  phoneNumber: "+39 0473 645433",
+  websiteUrl: "https://www.farmhouse-torgglerhof.com/",
 };
